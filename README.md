@@ -80,3 +80,15 @@
 - 🎯 My goal: Become a world-class fullstack developer
 
 ---
+
+---
+
+## ☕ Support My Work❤️
+
+If you like what I do, consider buying me a coffee!
+
+<p align="center">
+  <a href="https://buymeacoffee.com/emmaxyart?new=1" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+  </a>
+</p>
