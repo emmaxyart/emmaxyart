@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Edobor Emmanuel Ucheka</h1>
 <p align="center">
   A passionate <b>Frontend Developer</b> and future <b>Fullstack Engineer</b> 🚀 <br />
-  Currently learning <code>Python (Django)</code> for backend development.
 </p>
 
 ---
@@ -17,10 +16,7 @@
   <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 <p align="center">
@@ -46,8 +42,6 @@
 ## 🧠 Currently Learning
 
 - 🐍 Python and **Django** for backend development
-- 🧮 Data Structures & Algorithms for coding interviews
-
 ---
 
 ## 📊 GitHub Stats
