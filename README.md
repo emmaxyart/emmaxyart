@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Edobor Emmanuel Ucheka</h1>
 <p align="center">
-  A passionate <b>Frontend Developer</b> and future <b>Fullstack Engineer</b> 🚀 <br />
+  <b> Fullstack Engineer</b>
 </p>
 
 ---
